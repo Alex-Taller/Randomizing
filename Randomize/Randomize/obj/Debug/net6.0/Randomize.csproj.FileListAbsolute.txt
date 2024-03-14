@@ -1,0 +1,15 @@
+C:\DEV\Randomize\Randomize\bin\Debug\net6.0\Randomize.exe
+C:\DEV\Randomize\Randomize\bin\Debug\net6.0\Randomize.deps.json
+C:\DEV\Randomize\Randomize\bin\Debug\net6.0\Randomize.runtimeconfig.json
+C:\DEV\Randomize\Randomize\bin\Debug\net6.0\Randomize.dll
+C:\DEV\Randomize\Randomize\bin\Debug\net6.0\Randomize.pdb
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.csproj.AssemblyReference.cache
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.AssemblyInfoInputs.cache
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.AssemblyInfo.cs
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.csproj.CoreCompileInputs.cache
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.dll
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\refint\Randomize.dll
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.pdb
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\Randomize.genruntimeconfig.cache
+C:\DEV\Randomize\Randomize\obj\Debug\net6.0\ref\Randomize.dll
